@@ -84,10 +84,7 @@ Visualise the tracing paths using NetworkX to show the network of people infecte
 │   ├── f4_f5.csv
 │   └── people.csv
 ├── /src
-│   ├── data_processing.py
-│   ├── data_transformation.py
-│   ├── tracing_functions.py
-│   └── visualization.py
+│   ├── COVID-19 TraceID Cluster Analysis.ipynb
 ├── requirements.txt
 └── README.md
 ```
