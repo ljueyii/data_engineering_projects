@@ -17,14 +17,14 @@ This project showcases my solution for analysing cluster relationships using Tra
  
 ## Dataset Files:
 
-| **Filename**       | **Description**                                                         |
-|--------------------|-------------------------------------------------------------------------|
-| `f0_f1.csv`        | Contains f0 to f1 relationship (`trace_id`, `f0`, `f1`).                |
-| `f1_f2.csv`        | Contains f1 to f2 relationship.                                         |
-| `f2_f3.csv`        | Contains f2 to f3 relationship.                                         |
-| `f3_f4.csv`        | Contains f3 to f4 relationship.                                         |
-| `f4_f5.csv`        | Contains f4 to f5 relationship.                                         |
-| `people.csv`       | Contains information on individuals with fields `person_id` and `name`. |
+| **Filename**       | **Description**                                                  |
+|--------------------|------------------------------------------------------------------|
+| `f0_f1.csv`        | Contains f0 to f1 relationship (trace_id, f0, f1).               |
+| `f1_f2.csv`        | Contains f1 to f2 relationship.                                  |
+| `f2_f3.csv`        | Contains f2 to f3 relationship.                                  |
+| `f3_f4.csv`        | Contains f3 to f4 relationship.                                  |
+| `f4_f5.csv`        | Contains f4 to f5 relationship.                                  |
+| `people.csv`       | Contains person IDs and names of people in the population.       |
 
  
 ## Tasks:
@@ -84,7 +84,10 @@ Visualise the tracing paths using NetworkX to show the network of people infecte
 │   ├── f4_f5.csv
 │   └── people.csv
 ├── /src
-│   ├── COVID-19 TraceID Cluster Analysis.ipynb
+│   ├── data_processing.py
+│   ├── data_transformation.py
+│   ├── tracing_functions.py
+│   └── visualization.py
 ├── requirements.txt
 └── README.md
 ```
