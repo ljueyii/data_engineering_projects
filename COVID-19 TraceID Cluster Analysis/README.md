@@ -12,7 +12,7 @@ This project showcases my solution for analysing cluster relationships using Tra
 
 - **Structure the code** using methods, loops, and conditions to maintain efficiency and readability.
 
-- **Visualize data** effectively with Matplotlib and NetworkX to showcase insights from the cluster relationships.
+- **Visualise data** effectively with Matplotlib and NetworkX to showcase insights from the cluster relationships.
 
  
 ## Dataset Files:
