@@ -29,7 +29,7 @@ This repository showcases various **data engineering projects**, leveraging **Py
 - Conducted **SQL-based analysis, data aggregation, and trend identification**.  
 - Explored **query performance and data storage** for cloud environments. 
 
-### 6️⃣ **Grocery Market Basket Analysis using PySpark RDD**  
+### 6️⃣ **PySpark Grocery Market Basket Analysis**  
 - Implemented **association rule mining** to identify purchasing patterns.  
 - Utilised **PySpark RDD transformations** for data preprocessing and analysis.  
 - Extracted **insights on frequently bought itemsets and product recommendations**.  

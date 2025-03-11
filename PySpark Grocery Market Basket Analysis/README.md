@@ -1,4 +1,4 @@
-# Grocery Market Basket Analysis using PySpark RDD
+# PySpark Grocery Market Basket Analysis
 
 
  
@@ -98,5 +98,5 @@ This project demonstrates the use of PySpark RDDs to perform a market basket ana
    ```
 2. Execute the script with Python:
    ```bash
-   python 'Grocery Market Basket Analysis using PySpark RDD.py'
+   python 'PySpark Grocery Market Basket Analysis.py'
    ```
