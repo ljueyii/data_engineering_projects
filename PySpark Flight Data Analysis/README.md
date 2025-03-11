@@ -1,6 +1,6 @@
-# PySpark Flight Data Analysis
+# Cloud-based PySpark Flight Data Analysis
 
-This project demonstrates the use of PySpark DataFrame APIs to analyze flight and aircraft data. The objective is to perform data preprocessing, exploratory analysis, and advanced aggregations using Spark.
+This project demonstrates the use of PySpark DataFrame APIs to analyze flight and aircraft data. The objective is to perform data preprocessing, exploratory analysis, and advanced aggregations using Spark. Explored operations typically optimised for cloud environments with code structured in a way that would allow it to be easily ported to a cloud based spark environment.
  
 ## Objectives:
 - **Load and clean data** by reading CSV files into Spark DataFrames.
