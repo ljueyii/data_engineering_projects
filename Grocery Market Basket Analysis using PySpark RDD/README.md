@@ -85,7 +85,8 @@ This project demonstrates the use of PySpark RDDs to perform a market basket ana
    - Set the `SPARK_HOME` environment variable to your Spark installation directory.
    - Add the `bin/` directory of your Spark installation to your `PATH` environment variable.
 4. **Install Python Libraries**:
-   Install the required Python libraries using `pip`:
+   Install the required Python libraries using `pip`:  
+   *Warning: Ensure that the PySpark version you install matches the Apache Spark version you have installed.*
    ```bash
    pip install pyspark
    ```
