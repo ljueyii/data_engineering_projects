@@ -24,10 +24,10 @@ This repository showcases various **data engineering projects**, leveraging **Py
 - Designed a relational database schema using **SQLAlchemy and SQLite**.  
 - Performed **complex queries** to analyse historical lineage and relationships.  
 
-### 5️⃣ **Cloud-Driven Flight Data Analytics with PySpark**  
+### 5️⃣ **Cloud-based PySpark Flight Data Analytics**  
 - Processed large-scale flight data using **PySpark DataFrame APIs**.  
 - Conducted **SQL-based analysis, data aggregation, and trend identification**.  
-- Optimised **query performance and data storage** for cloud environments.  
+- Explored **query performance and data storage** for cloud environments. 
 
 ### 6️⃣ **Grocery Market Basket Analysis using PySpark RDD**  
 - Implemented **association rule mining** to identify purchasing patterns.  
