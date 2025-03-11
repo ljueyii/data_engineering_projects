@@ -56,10 +56,12 @@ This repository showcases various **data engineering projects**, leveraging **Py
 /data_engineering_coursework  
 ├── /projects  
 │   ├── British Monarch Family Tree Scraping and Database Integration
-│   ├── COVID-19 TraceID Cluster Analysis
 │   ├── COVID-19 TraceID Cluster - Acquaintance Network Analysis
-│   ├── Grocery Market Basket Analysis using PySpark RDD
+│   ├── COVID-19 TraceID Cluster Analysis
+│   ├── Cloud-based PySpark Flight Data Analytics
 │   ├── Integrated Digital Twin for Weather Station Sensor Data Processing
+│   ├── PySpark Grocery Market Basket Analysis
+│   ├── LICENSE
 └── README.md
 ```  
 
